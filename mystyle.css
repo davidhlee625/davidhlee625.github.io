@@ -3,13 +3,15 @@ h1{
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  color: red;
+
 }
 
 body {
     background-color: lightblue;
 
     }
-    table {
+table {
       font-family: arial, sans-serif;
       margin-left: auto;
       margin-right: auto;
@@ -17,18 +19,13 @@ body {
       border-collapse: separate;
     }
 
-    td {
+td {
       border: solid 2 px lightgrey;
     }
 
-    .center {
+.center {
       display: block;
       margin-left: auto;
       margin-right: auto;
       width: 30%
     }
-  
-  h1 {
-    color: navy;
-    margin-left: 20px;
-  }
