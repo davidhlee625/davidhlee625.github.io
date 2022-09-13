@@ -8,7 +8,9 @@ body {
       margin-left: auto;
       margin-right: auto;
       text-align: center;
+      border-collapse: separate;
     }
+
 
     .center {
       display: block;
