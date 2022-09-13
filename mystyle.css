@@ -1,12 +1,3 @@
-
-h1{
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  color: red;
-
-}
-
 body {
     background-color: lightblue;
     }
@@ -44,4 +35,7 @@ li{
     background: lightgray;
     display:inline-block;
     width: 20%;
+}
+.menu{
+  background: lightgray;
 }
