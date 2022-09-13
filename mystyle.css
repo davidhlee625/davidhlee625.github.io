@@ -2,7 +2,6 @@ body {
     background-color: lightblue;
     }
 
-
 table, th, td {
       font-family: arial, sans-serif;
       margin-left: auto;
@@ -10,7 +9,6 @@ table, th, td {
       text-align: center;
       border-collapse: separate;
       border: 1px solid;
-
     }
 
 .center {
@@ -36,7 +34,6 @@ li{
 }
 .title{
   text-align: center;
-
 }
 
 .menu{
@@ -45,4 +42,8 @@ li{
 
 .primary{
   text-align: center;
+}
+
+a{
+  color:  #FF0000;
 }
