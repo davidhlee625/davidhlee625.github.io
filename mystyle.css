@@ -3,17 +3,16 @@ body {
     }
 
 
-table {
+table, th, td {
       font-family: arial, sans-serif;
       margin-left: auto;
       margin-right: auto;
       text-align: center;
       border-collapse: separate;
+      border: 1px solid;
+
     }
 
-td {
-      border: solid 2 px lightgrey;
-    }
 
 .center {
       display: block;
