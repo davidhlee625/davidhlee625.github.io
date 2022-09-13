@@ -11,6 +11,10 @@ body {
       border-collapse: separate;
     }
 
+    td {
+      border: solid 2px lightgrey;
+
+    }
 
     .center {
       display: block;
