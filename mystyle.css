@@ -2,9 +2,12 @@
 body {
     background-color: lightblue;
 
-    
     }
-    
+    table{
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      width: 100%
+    }
     .center {
       display: block;
       margin-left: auto;
