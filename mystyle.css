@@ -10,11 +10,8 @@ h1{
 body {
     background-color: lightblue;
     }
-@media only screen and (max-width: 600 px) {
-  body {
-    background-color: lightyellow;
-  }
-}
+
+
 table {
       font-family: arial, sans-serif;
       margin-left: auto;
