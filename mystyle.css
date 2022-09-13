@@ -21,6 +21,7 @@ table, th, td {
 .selected {
       background: lightblue;
   }
+
 li {
       background: purple;
   }
@@ -36,6 +37,11 @@ li{
   text-align: center;
 }
 
+#subtitle{
+  text-align: center;
+  text-size-adjust: 60%;
+}
+
 .menu{
   background: lightgray;
 }
@@ -45,5 +51,12 @@ li{
 }
 
 a{
-  color:  #FF0000;
+  color: blue;
 }
+
+@media only screen and (max-width: 600px){
+  body {
+    background: lightgoldenrodyellow;
+  }
+}
+
