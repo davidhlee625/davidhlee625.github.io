@@ -29,3 +29,9 @@ td {
       margin-right: auto;
       width: 30%
     }
+.selected {
+      background: lightblue;
+  }
+li {
+      background: purple;
+  }
