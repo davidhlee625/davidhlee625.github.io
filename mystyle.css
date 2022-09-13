@@ -29,9 +29,18 @@ td {
       margin-right: auto;
       width: 30%
     }
+    
 .selected {
       background: lightblue;
   }
 li {
       background: purple;
   }
+  li:hover { 
+    background: gray;
+}
+li{
+    background: red;
+    display:inline-block;
+    width: 20%;
+}
