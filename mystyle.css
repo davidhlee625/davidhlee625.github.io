@@ -25,6 +25,7 @@ table, th, td {
 li {
       background: purple;
   }
+
 li:hover { 
     background: beige;
 }
@@ -44,6 +45,7 @@ li{
 
 .menu{
   background: lightgray;
+  text-align: center;
 }
 
 .primary{
